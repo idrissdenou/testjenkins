@@ -121,11 +121,11 @@
 	 <distributionManagement>
         <repository>
             <id>nexus</id>
-            <url>http://44.210.123.113:8081/repository/RBS-Maven-App-Release/</url>
+            <url>http://54.173.201.124:8081/repository/RBS-Maven-App-Release/</url>
         </repository>
         <snapshotRepository>
             <id>nexus</id>
-            <url>http://44.210.123.113:8081/repository/RBS-Maven-app-Snapshot/</url>
+            <url>http://54.173.201.124:8081/repository/RBS-Maven-app-Snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
 
