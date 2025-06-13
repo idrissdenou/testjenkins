@@ -3,7 +3,7 @@ pipeline{
   stages{
     stage('Hello'){
       steps{
-        sh "echo Welcome to E&E cloud Tech"
+        sh "echo Welcome to ENE cloud Tech"
       }
     }
     stage('sleep'){
@@ -13,7 +13,7 @@ pipeline{
     }
     stage('Hello2'){
       steps{
-        sh "echo welcome to E&E cloud tech Job2"
+        sh "echo welcome to ENE cloud tech Job2"
       }
     }
   }
