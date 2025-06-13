@@ -1,0 +1,20 @@
+pipeline{
+  agent any
+  stages{
+    stage('Hello'){
+      steps{
+        sh "echo Welcome to E&E cloud Tech"
+      }
+    }
+    stage('sleep'){
+      steps{
+        sh 'sleep 10'
+      }
+    }
+    stage('Hello2'){
+      steps{
+        sh "echo welcome to E&E cloud tech Job2"
+      }
+    }
+  }
+}
