@@ -13,7 +13,8 @@ pipeline{
     }
     stage('Hello2'){
       steps{
-        sh "echo welcome to ENE cloud tech Job2"
+        sh "echo welcome to ENE cloud tech Job3"
+        sh "echo welcome to ENE cloud tech Job4"
       }
     }
   }
