@@ -122,11 +122,11 @@
 	 <distributionManagement>
         <repository>
             <id>maven-releases</id>
-            <url>http://13.201.64.186:8081/repository/maven-releases/</url>
+            <url>http://13.48.130.189:8000/repository/boa-releases/</url>
         </repository>
         <snapshotRepository>
             <id>maven-snapshots</id>
-            <url>http://13.201.64.186:8081/repository/maven-snapshots/</url>
+            <url>http://13.48.130.189:8000/repository/boa-snapshot/</url>
         </snapshotRepository>
     </distributionManagement>
 
